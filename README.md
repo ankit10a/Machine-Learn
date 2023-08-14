@@ -6,10 +6,14 @@
 
 pip install -r requirements.txt
 
+ ## Requirements
 Some packages are:
- - numpy 
- - pandas 
- - scikit-learn
+
+- Python 3.x
+- Pandas
+- NumPy
+- scikit-learn
+
 
 4. Run the "app.py" file
 And you are good to go. 
